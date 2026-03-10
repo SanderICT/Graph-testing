@@ -1,2 +1,2 @@
 # Graph-testing
-ik wil hier verschillende manieren van data visualiseren bekijken
+ik wil hier verschillende manieren van data visualiseren bekijken en koekeloeren
